@@ -8,4 +8,4 @@ Parmi elles, **Plante de Constellation** s’inspire de l'organisation
 des constellations, créant un motif vivant qui évolue sur les cercles au sol.
 
 Visuel du code : https://editor.p5js.org/celinesurlalune/full/4Lk94Rz88
-![Plante numérique](Constellation fond.png)
+![Plante numérique](constellation-fond.png)
